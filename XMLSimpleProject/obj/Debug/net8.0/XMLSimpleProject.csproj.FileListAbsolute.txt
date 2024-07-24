@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\XMLSimpleProject\bin\Debug\net8.0\XMLSimpleProject.exe
+C:\Users\user\source\repos\XMLSimpleProject\bin\Debug\net8.0\XMLSimpleProject.deps.json
+C:\Users\user\source\repos\XMLSimpleProject\bin\Debug\net8.0\XMLSimpleProject.runtimeconfig.json
+C:\Users\user\source\repos\XMLSimpleProject\bin\Debug\net8.0\XMLSimpleProject.dll
+C:\Users\user\source\repos\XMLSimpleProject\bin\Debug\net8.0\XMLSimpleProject.pdb
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.AssemblyInfo.cs
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.dll
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\refint\XMLSimpleProject.dll
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.pdb
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\XMLSimpleProject.genruntimeconfig.cache
+C:\Users\user\source\repos\XMLSimpleProject\obj\Debug\net8.0\ref\XMLSimpleProject.dll

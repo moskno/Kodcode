@@ -1,0 +1,10 @@
+C:\_Kodcode2\Learning\bin\Debug\Learning.exe.config
+C:\_Kodcode2\Learning\bin\Debug\Learning.exe
+C:\_Kodcode2\Learning\bin\Debug\Learning.pdb
+C:\_Kodcode2\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\_Kodcode2\Learning\obj\Debug\Learning.Form1.resources
+C:\_Kodcode2\Learning\obj\Debug\Learning.Properties.Resources.resources
+C:\_Kodcode2\Learning\obj\Debug\Learning.csproj.GenerateResource.cache
+C:\_Kodcode2\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\_Kodcode2\Learning\obj\Debug\Learning.exe
+C:\_Kodcode2\Learning\obj\Debug\Learning.pdb

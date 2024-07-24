@@ -1,0 +1,11 @@
+C:\_Kodcode2\C#\College\bin\Debug\College.exe.config
+C:\_Kodcode2\C#\College\bin\Debug\College.exe
+C:\_Kodcode2\C#\College\bin\Debug\College.pdb
+C:\_Kodcode2\C#\College\obj\Debug\College.csproj.AssemblyReference.cache
+C:\_Kodcode2\C#\College\obj\Debug\College.Form1.resources
+C:\_Kodcode2\C#\College\obj\Debug\College.Properties.Resources.resources
+C:\_Kodcode2\C#\College\obj\Debug\College.csproj.GenerateResource.cache
+C:\_Kodcode2\C#\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+C:\_Kodcode2\C#\College\obj\Debug\College.exe
+C:\_Kodcode2\C#\College\obj\Debug\College.pdb
+C:\_Kodcode2\C#\College\obj\Debug\College.Form2.resources

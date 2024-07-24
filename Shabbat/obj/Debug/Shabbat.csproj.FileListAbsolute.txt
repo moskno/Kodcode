@@ -1,0 +1,13 @@
+C:\_Kodcode2\C#\Shabbat\bin\Debug\Shabbat.exe.config
+C:\_Kodcode2\C#\Shabbat\bin\Debug\Shabbat.exe
+C:\_Kodcode2\C#\Shabbat\bin\Debug\Shabbat.pdb
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.csproj.AssemblyReference.cache
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.Properties.Resources.resources
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.csproj.GenerateResource.cache
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.csproj.CoreCompileInputs.cache
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.exe
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.pdb
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.Frm1Hoster.resources
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.Frm2OrderList.resources
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.Frm3Guest.resources
+C:\_Kodcode2\C#\Shabbat\obj\Debug\Shabbat.Frm4Food.resources

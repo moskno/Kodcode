@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+	<Employee id="1" name="Shalom" age="20">
+			<Addres street="Hamasger" number="15" city="Tel Aviv"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked ="12"/>
+			<Month number="2" daysWorked ="10"/>
+			<Month number="3" daysWorked ="17"/>
+		</MonthsWorked>
+	</Employee>
+	<Employee id="2" name="David" age="25">
+			<Addres street="Hamlacha" number="27" city="Tel Aviv"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked ="2"/>
+			<Month number="2" daysWorked ="5"/>
+			<Month number="3" daysWorked ="12"/>
+		</MonthsWorked>
+	</Employee>
+	<Employee id="3" name="Moshe" age="27">
+		<Addres street="Begin" number="2" city="Tel Aviv"/>
+		<MonthsWorked>
+			<Month number="1" daysWorked ="20"/>
+			<Month number="2" daysWorked ="15"/>
+			<Month number="3" daysWorked ="23"/>
+		</MonthsWorked>
+	</Employee>
+</Employees>
+
+
+

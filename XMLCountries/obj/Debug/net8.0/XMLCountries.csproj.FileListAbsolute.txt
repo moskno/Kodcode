@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\XMLCountries\bin\Debug\net8.0\XMLCountries.exe
+C:\Users\user\source\repos\XMLCountries\bin\Debug\net8.0\XMLCountries.deps.json
+C:\Users\user\source\repos\XMLCountries\bin\Debug\net8.0\XMLCountries.runtimeconfig.json
+C:\Users\user\source\repos\XMLCountries\bin\Debug\net8.0\XMLCountries.dll
+C:\Users\user\source\repos\XMLCountries\bin\Debug\net8.0\XMLCountries.pdb
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.AssemblyInfo.cs
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.dll
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\refint\XMLCountries.dll
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.pdb
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\XMLCountries.genruntimeconfig.cache
+C:\Users\user\source\repos\XMLCountries\obj\Debug\net8.0\ref\XMLCountries.dll

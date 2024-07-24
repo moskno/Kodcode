@@ -1,0 +1,4 @@
+C:\_Kodcode2\C#\Excersize\obj\Debug\net8.0\Excersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Kodcode2\C#\Excersize\obj\Debug\net8.0\Excersize.AssemblyInfoInputs.cache
+C:\_Kodcode2\C#\Excersize\obj\Debug\net8.0\Excersize.AssemblyInfo.cs
+C:\_Kodcode2\C#\Excersize\obj\Debug\net8.0\Excersize.csproj.CoreCompileInputs.cache
