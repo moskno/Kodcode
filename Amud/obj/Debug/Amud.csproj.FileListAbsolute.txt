@@ -1,0 +1,10 @@
+C:\_Kodcode2\Amud\bin\Debug\Amud.exe.config
+C:\_Kodcode2\Amud\bin\Debug\Amud.exe
+C:\_Kodcode2\Amud\bin\Debug\Amud.pdb
+C:\_Kodcode2\Amud\obj\Debug\Amud.csproj.AssemblyReference.cache
+C:\_Kodcode2\Amud\obj\Debug\Amud.Form1.resources
+C:\_Kodcode2\Amud\obj\Debug\Amud.Properties.Resources.resources
+C:\_Kodcode2\Amud\obj\Debug\Amud.csproj.GenerateResource.cache
+C:\_Kodcode2\Amud\obj\Debug\Amud.csproj.CoreCompileInputs.cache
+C:\_Kodcode2\Amud\obj\Debug\Amud.exe
+C:\_Kodcode2\Amud\obj\Debug\Amud.pdb

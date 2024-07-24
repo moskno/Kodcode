@@ -1,0 +1,10 @@
+C:\_Kodcode2\Employeelist\bin\Debug\Employeelist.exe.config
+C:\_Kodcode2\Employeelist\bin\Debug\Employeelist.exe
+C:\_Kodcode2\Employeelist\bin\Debug\Employeelist.pdb
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.csproj.AssemblyReference.cache
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.Form1.resources
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.Properties.Resources.resources
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.csproj.GenerateResource.cache
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.csproj.CoreCompileInputs.cache
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.exe
+C:\_Kodcode2\Employeelist\obj\Debug\Employeelist.pdb
