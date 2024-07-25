@@ -1,0 +1,36 @@
+<Queries>
+  <Query>
+    <WeekDay>ראשון</WeekDay>
+    <MonthDay>1</MonthDay>
+    <Month>תשרי</Month>
+    <Year>תשפ"ד</Year>
+  </Query>
+  <Query>
+    <WeekDay>שני</WeekDay>
+    <MonthDay>1</MonthDay>
+    <Month>תשרי</Month>
+    <Year>תשפ"ד</Year>
+    <Result>בשני בשבת,  יום אחד לירח לירח תשרי, שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <WeekDay>שלישי</WeekDay>
+    <MonthDay>5</MonthDay>
+    <Month>מרחשון</Month>
+    <Year>תשפ"ח</Year>
+    <Result>בשלישי בשבת, יום לא ידוע לירח מרחשון, שנת שנה לא ידועה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <WeekDay>שלישי</WeekDay>
+    <MonthDay>5</MonthDay>
+    <Month>מרחשון</Month>
+    <Year>תשפ"ח</Year>
+    <Result>בשלישי בשבת, יום לא ידוע לירח מרחשון, שנת שנה לא ידועה לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <WeekDay>ראשון</WeekDay>
+    <MonthDay>2</MonthDay>
+    <Month>מרחשון</Month>
+    <Year>תשפ"ה</Year>
+    <Result>באחד בשבת,  שני ימים לירח לירח מרחשון, שנת חמשת אלפים ושבע מאות ושמנים וחמש לבריאת העולם</Result>
+  </Query>
+</Queries>
